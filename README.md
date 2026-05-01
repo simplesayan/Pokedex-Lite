@@ -27,9 +27,9 @@ Users can search, filter, paginate, view details, and mark their favorite Pokém
 # API: PokéAPI (https://pokeapi.co/)
 
 # Installation & Setup
-Clone the Repository
-git clone <your-repo-link>
-cd pokedex-lite
-npm install
+Clone the Repository ||
+git clone <your-repo-link> ||
+cd pokedex-lite ||
+npm install ||
 npm run dev
 
